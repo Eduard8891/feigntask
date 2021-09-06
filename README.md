@@ -1,5 +1,5 @@
-Докер контейнер, если не спутал: edripov/taskfeign:001
+Тестовое Spring приложение c Feign. 
 
-Тестовое Spring приложение c Feign.
+Докер контейнер, если не спутал: edripov/taskfeign:001
 
 Порт: 8000
